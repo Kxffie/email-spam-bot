@@ -5,10 +5,14 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Python Bot made with [YagMail](https://bit.ly/3lVoL0P)
+(pip install yagmail)
 
 ## Editing
 
 Fill out the required questions and edit the main.py to change the lines etc
+For VSCode, you will need the python extension to run it.
+Pycharm comes with everything.
+Other IDE's, no clue.
 
 ## Links
 
