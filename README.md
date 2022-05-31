@@ -8,7 +8,7 @@ Python Bot made with [YagMail](https://bit.ly/3lVoL0P)
 
 ## Editing
 
-No editing needed, just fill out the required questions. 
+Fill out the required questions and edit the main.py to change the lines etc
 
 ## Links
 
